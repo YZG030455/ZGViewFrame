@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>resource/ico/myicon.ico</file>
+    </qresource>
+    <qresource prefix="/splashScreen">
+        <file>resource/splashscreen/splashScreen1.jpg</file>
+        <file>resource/splashscreen/splashScreen2.jpg</file>
+        <file>resource/splashscreen/splashScreen3.jpg</file>
+        <file>resource/splashscreen/splashScreen4.jpg</file>
+    </qresource>
+</RCC>
